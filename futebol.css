@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color:rgba(8, 122, 78, 0.479);
+    background-color:rgba(212, 245, 232, 0.479);
 }
 
 h1 {
@@ -18,7 +18,7 @@ h3 {
     text-align: center;
     padding: 5px;
     font-size: 20px;
-    color:rgb(2, 54, 30);
+    color:rgb(0, 0, 0);
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -104,11 +104,11 @@ h3 {
 
 .botoes{
     margin: 0 auto;
-    height: 10vh;
+    height: 20vh;
     width: 30vw;
     display: flex;
     justify-content: space-evenly;
-    align-items: center;
+    align-items:baseline;
    
 }
 input{
